@@ -62,20 +62,22 @@
 
 ## Projects
 ### 🔌 Sockets
-<div>
-  <div>
-    <div>
-      <a href="https://github.com/youruser/socket-chat"><b>socket-chat</b></a>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 320px;">
+    <div style="font-weight: bold; font-size: 16px;">
+      <a href="https://github.com/youruser/socket-chat">socket-chat</a>
     </div>
-    <div>A simple real-time chat app built with sockets.</div>
+    <div style="color:#555;">A simple real-time chat app built with sockets.</div>
   </div>
   
-  <div>
-    <div>
-      <a href="https://github.com/youruser/socket-server"><b>socket-server</b></a>
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 320px;">
+    <div style="font-weight: bold; font-size: 16px;">
+      <a href="https://github.com/youruser/socket-server">socket-server</a>
     </div>
-    <div>Lightweight socket server for testing protocols.</div>
+    <div style="color:#555;">Lightweight socket server for testing protocols.</div>
   </div>
+
 </div>
 ### 📄 LaTeX
 <div>
