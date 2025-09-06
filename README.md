@@ -55,8 +55,8 @@
 
 <!-- Documentation & Writing -->
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
 <img alt="UML" src="https://img.shields.io/badge/UML-FAA918?style=for-the-badge&logo=uml&logoColor=black" />
 </div>
 
