@@ -4,6 +4,9 @@
 Here are some ideas to get you started:
 -->
 🎓 Computer Scientist by degree
+
 💼 Developer by profession
+
 ✍ Researcher by interest
+
 🧢 Content creator by hobby
