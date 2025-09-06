@@ -15,21 +15,20 @@
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&style=for-the-badge&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 
 <!-- Data / AI -->
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-eeeeee?style=for-the-badge&logo=Matplotlib&logoColor=blue" />
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img alt="OpenMP" src="https://img.shields.io/badge/OpenMP-2C2255?style=for-the-badge&logo=openmp&logoColor=white" />
+<img alt="OpenMP" src="https://img.shields.io/badge/OpenMP-2C5BB4?style=for-the-badge&logo=openmp&logoColor=white" />
 <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img alt="pthreads" src="https://img.shields.io/badge/Pthreads-555555?style=for-the-badge&logo=thread&logoColor=white" />
-<img alt="MPI" src="https://img.shields.io/badge/MPI-00427E?style=for-the-badge&logo=mpi&logoColor=white" />
+<img alt="pthreads" src="https://img.shields.io/badge/pthreads-008080?style=for-the-badge&logo=threading&logoColor=white" />
+<img alt="MPI" src="https://img.shields.io/badge/MPI-CC0000?style=for-the-badge&logo=mpi&logoColor=white" />
 
 <!-- Databases -->
 <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -54,6 +53,11 @@
 <!-- OS -->
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
+<!-- Documentation & Writing -->
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<img alt="UML" src="https://img.shields.io/badge/UML-FAA918?style=for-the-badge&logo=uml&logoColor=black" />
 </div>
 
 ## Projects
