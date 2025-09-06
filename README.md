@@ -15,7 +15,6 @@
 </div>
 
 ##
-
 ## Languages and tools
 
 ## Projects
