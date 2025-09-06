@@ -62,19 +62,46 @@
 
 ## Projects
 ### 🔌 Sockets
-| Repository | Description |
-|------------|-------------|
-| [socket-chat](https://github.com/youruser/socket-chat) | A simple real-time chat app built with sockets. |
-| [socket-server](https://github.com/youruser/socket-server) | Lightweight socket server for testing protocols. |
+<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
+  <div style="font-weight:bold; font-size:16px;">
+    <a href="https://github.com/youruser/socket-chat">socket-chat</a>
+  </div>
+  <div style="color:#555;">A simple real-time chat app built with sockets.</div>
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
+  <div style="font-weight:bold; font-size:16px;">
+    <a href="https://github.com/youruser/socket-server">socket-server</a>
+  </div>
+  <div style="color:#555;">Lightweight socket server for testing protocols.</div>
+</div>
 
 ### 📄 LaTeX
-| Repository | Description |
-|------------|-------------|
-| [latex-thesis](https://github.com/youruser/latex-thesis) | Academic thesis template in LaTeX. |
-| [latex-slides](https://github.com/youruser/latex-slides) | Beamer slides template with custom theme. |
+<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
+  <div style="font-weight:bold; font-size:16px;">
+    <a href="https://github.com/youruser/latex-thesis">latex-thesis</a>
+  </div>
+  <div style="color:#555;">Academic thesis template in LaTeX.</div>
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
+  <div style="font-weight:bold; font-size:16px;">
+    <a href="https://github.com/youruser/latex-slides">latex-slides</a>
+  </div>
+  <div style="color:#555;">Beamer slides template with custom theme.</div>
+</div>
 
 ### 🖼 Image Processing
-| Repository | Description |
-|------------|-------------|
-| [opencv-filters](https://github.com/youruser/opencv-filters) | Collection of image filters implemented with OpenCV. |
-| [image-segmentation](https://github.com/youruser/image-segmentation) | Experiments with segmentation algorithms. |
+<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
+  <div style="font-weight:bold; font-size:16px;">
+    <a href="https://github.com/youruser/opencv-filters">opencv-filters</a>
+  </div>
+  <div style="color:#555;">Collection of image filters implemented with OpenCV.</div>
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
+  <div style="font-weight:bold; font-size:16px;">
+    <a href="https://github.com/youruser/image-segmentation">image-segmentation</a>
+  </div>
+  <div style="color:#555;">Experiments with segmentation algorithms.</div>
+</div>
