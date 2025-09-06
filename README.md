@@ -15,7 +15,7 @@
 </div>
 
 ## Languages and tools
-  
+<div>
 <!-- Programming Languages -->
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&style=for-the-badge&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&style=for-the-badge&logoColor=white" />
@@ -58,5 +58,5 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-
+</div>
 ## Projects
