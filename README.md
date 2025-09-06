@@ -61,20 +61,13 @@
 </div>
 
 ## Projects
-<div style="display: flex; flex-direction: row; gap: 10px;">
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 320px;">
-    <div style="font-weight: bold; font-size: 16px;">
-      <a href="https://github.com/youruser/socket-chat">socket-chat</a>
-    </div>
-    <div style="color:#555;">A simple real-time chat app built with sockets.</div>
-  </div>
-  
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 320px;">
-    <div style="font-weight: bold; font-size: 16px;">
-      <a href="https://github.com/youruser/socket-server">socket-server</a>
-    </div>
-    <div style="color:#555;">Lightweight socket server for testing protocols.</div>
-  </div>
-
-</div>
+### 📄 LaTeX
+| Repository | Description |
+|------------|-------------|
+| [latex-slides-with-menu](https://github.com/youruser/latex-slides-with-menu) | Slides template with a navigation menu for presentations. |
+| [latex-doc-template](https://github.com/youruser/latex-doc-template) | General-purpose LaTeX template for documents and reports. |
+| [latex-cv](https://github.com/youruser/latex-cv) | A clean and professional curriculum vitae template. |
+| [latex-article](https://github.com/youruser/latex-article) | Basic article template to kickstart LaTeX writing. |
+| [latex-academic-thesis](https://github.com/youruser/latex-academic-thesis) | Comprehensive template for academic theses. |
+| [latex-academic-article](https://github.com/youruser/latex-academic-article) | Template tailored for academic papers and articles. |
