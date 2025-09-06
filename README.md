@@ -61,12 +61,17 @@
 
 ## Projects
 
-### 📄 LaTeX
+### 💻 Courses
 | Repository | Description |
 |------------|-------------|
-| [latex-slides-with-menu](https://github.com/youruser/latex-slides-with-menu) | Slides template with a navigation menu for presentations. |
-| [latex-doc-template](https://github.com/youruser/latex-doc-template) | General-purpose LaTeX template for documents and reports. |
-| [latex-cv](https://github.com/youruser/latex-cv) | A clean and professional curriculum vitae template. |
-| [latex-article](https://github.com/youruser/latex-article) | Basic article template to kickstart LaTeX writing. |
-| [latex-academic-thesis](https://github.com/youruser/latex-academic-thesis) | Comprehensive template for academic theses. |
-| [latex-academic-article](https://github.com/youruser/latex-academic-article) | Template tailored for academic papers and articles. |
+| [c-course](https://github.com/fromcaio/c-course) | Source code, exercises, and examples from my complete C programming course on YouTube. |
+
+### LaTeX
+| Repository | Description |
+|------------|-------------|
+| [latex-slides-with-menu](https://github.com/fromcaio/latex-slides-with-menu) | Slides template with a navigation menu for professional presentations. |
+| [latex-doc-template](https://github.com/fromcaio/latex-doc-template) | Template for complete software documentation, technical manuals, and structured reports. |
+| [latex-article](https://github.com/fromcaio/latex-article) | Template designed for usage articles, development reports, and technical write-ups. |
+| [latex-academic-thesis](https://github.com/fromcaio/latex-academic-thesis) | Comprehensive and customizable template for academic theses and dissertations. |
+| [latex-academic-article](https://github.com/fromcaio/latex-academic-article) | Template tailored for academic papers, conference submissions, and journal articles. |
+| [latex-cv](https://github.com/fromcaio/latex-cv) | Clean and professional LaTeX template for creating a CV or résumé. |
