@@ -61,3 +61,33 @@
 </div>
 
 ## Projects
+
+### 🔌 Sockets
+<div align="center">
+  <a href="https://github.com/youruser/socket-project1">
+    <img src="https://img.shields.io/badge/socket--project1-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/youruser/socket-project2">
+    <img src="https://img.shields.io/badge/socket--project2-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+### 📄 LaTeX
+<div align="center">
+  <a href="https://github.com/youruser/latex-thesis">
+    <img src="https://img.shields.io/badge/latex--thesis-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  </a>
+  <a href="https://github.com/youruser/latex-slides">
+    <img src="https://img.shields.io/badge/latex--slides-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  </a>
+</div>
+
+### 🖼 Image Processing
+<div align="center">
+  <a href="https://github.com/youruser/opencv-filters">
+    <img src="https://img.shields.io/badge/opencv--filters-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+  <a href="https://github.com/youruser/image-segmentation">
+    <img src="https://img.shields.io/badge/image--segmentation-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+</div>
