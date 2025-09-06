@@ -64,18 +64,19 @@
 ### 🔌 Sockets
 <div>
   <div>
-    <a href="https://github.com/youruser/socket-chat"><b>socket-chat</b></a>
+    <div>
+      <a href="https://github.com/youruser/socket-chat"><b>socket-chat</b></a>
+    </div>
+    <div>A simple real-time chat app built with sockets.</div>
   </div>
-  <div>A simple real-time chat app built with sockets.</div>
-</div>
-
-<div>
+  
   <div>
-    <a href="https://github.com/youruser/socket-server"><b>socket-server</b></a>
+    <div>
+      <a href="https://github.com/youruser/socket-server"><b>socket-server</b></a>
+    </div>
+    <div>Lightweight socket server for testing protocols.</div>
   </div>
-  <div>Lightweight socket server for testing protocols.</div>
 </div>
-
 ### 📄 LaTeX
 <div>
   <div>
