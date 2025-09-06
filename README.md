@@ -1,14 +1,8 @@
-# 👋 Hi, I'm Caio
-
 ## About Me  
 🎓 Computer Scientist by degree  
 💼 Developer by profession  
 ✍ Researcher by interest  
 🧢 Content creator by hobby  
-
----
-
-## 🌐 Connect with me  
 
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
