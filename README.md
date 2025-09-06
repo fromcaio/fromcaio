@@ -61,8 +61,7 @@
 </div>
 
 ## Projects
-### 🔌 Sockets
-<div style="display: flex; flex-direction: column; gap: 10px;">
+<div style="display: flex; flex-direction: row; gap: 10px;">
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 320px;">
     <div style="font-weight: bold; font-size: 16px;">
@@ -78,33 +77,4 @@
     <div style="color:#555;">Lightweight socket server for testing protocols.</div>
   </div>
 
-</div>
-### 📄 LaTeX
-<div>
-  <div>
-    <a href="https://github.com/youruser/latex-thesis"><b>latex-thesis</b></a>
-  </div>
-  <div>Academic thesis template in LaTeX.</div>
-</div>
-
-<div>
-  <div>
-    <a href="https://github.com/youruser/latex-slides"><b>latex-slides</b></a>
-  </div>
-  <div>Beamer slides template with custom theme.</div>
-</div>
-
-### 🖼 Image Processing
-<div>
-  <div>
-    <a href="https://github.com/youruser/opencv-filters"><b>opencv-filters</b></a>
-  </div>
-  <div>Collection of image filters implemented with OpenCV.</div>
-</div>
-
-<div>
-  <div>
-    <a href="https://github.com/youruser/image-segmentation"><b>image-segmentation</b></a>
-  </div>
-  <div>Experiments with segmentation algorithms.</div>
 </div>
