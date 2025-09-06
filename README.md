@@ -62,46 +62,46 @@
 
 ## Projects
 ### 🔌 Sockets
-<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
-  <div style="font-weight:bold; font-size:16px;">
-    <a href="https://github.com/youruser/socket-chat">socket-chat</a>
+<div>
+  <div>
+    <a href="https://github.com/youruser/socket-chat"><b>socket-chat</b></a>
   </div>
-  <div style="color:#555;">A simple real-time chat app built with sockets.</div>
+  <div>A simple real-time chat app built with sockets.</div>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
-  <div style="font-weight:bold; font-size:16px;">
-    <a href="https://github.com/youruser/socket-server">socket-server</a>
+<div>
+  <div>
+    <a href="https://github.com/youruser/socket-server"><b>socket-server</b></a>
   </div>
-  <div style="color:#555;">Lightweight socket server for testing protocols.</div>
+  <div>Lightweight socket server for testing protocols.</div>
 </div>
 
 ### 📄 LaTeX
-<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
-  <div style="font-weight:bold; font-size:16px;">
-    <a href="https://github.com/youruser/latex-thesis">latex-thesis</a>
+<div>
+  <div>
+    <a href="https://github.com/youruser/latex-thesis"><b>latex-thesis</b></a>
   </div>
-  <div style="color:#555;">Academic thesis template in LaTeX.</div>
+  <div>Academic thesis template in LaTeX.</div>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
-  <div style="font-weight:bold; font-size:16px;">
-    <a href="https://github.com/youruser/latex-slides">latex-slides</a>
+<div>
+  <div>
+    <a href="https://github.com/youruser/latex-slides"><b>latex-slides</b></a>
   </div>
-  <div style="color:#555;">Beamer slides template with custom theme.</div>
+  <div>Beamer slides template with custom theme.</div>
 </div>
 
 ### 🖼 Image Processing
-<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
-  <div style="font-weight:bold; font-size:16px;">
-    <a href="https://github.com/youruser/opencv-filters">opencv-filters</a>
+<div>
+  <div>
+    <a href="https://github.com/youruser/opencv-filters"><b>opencv-filters</b></a>
   </div>
-  <div style="color:#555;">Collection of image filters implemented with OpenCV.</div>
+  <div>Collection of image filters implemented with OpenCV.</div>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:10px; margin:6px 0;">
-  <div style="font-weight:bold; font-size:16px;">
-    <a href="https://github.com/youruser/image-segmentation">image-segmentation</a>
+<div>
+  <div>
+    <a href="https://github.com/youruser/image-segmentation"><b>image-segmentation</b></a>
   </div>
-  <div style="color:#555;">Experiments with segmentation algorithms.</div>
+  <div>Experiments with segmentation algorithms.</div>
 </div>
