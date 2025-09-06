@@ -6,6 +6,25 @@
 
 ##
 
+<div>
+  <a href="https://www.youtube.com/@fromcaio" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://instagram.com/fromcaio_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/6fv5Qdpj" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:fromcaio.contato@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/fromcaio/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+## Languages and tools
 
 <div>
 <!-- Programming Languages -->
@@ -68,3 +87,4 @@
 | [latex-article](https://github.com/youruser/latex-article) | Basic article template to kickstart LaTeX writing. |
 | [latex-academic-thesis](https://github.com/youruser/latex-academic-thesis) | Comprehensive template for academic theses. |
 | [latex-academic-article](https://github.com/youruser/latex-academic-article) | Template tailored for academic papers and articles. |
+
