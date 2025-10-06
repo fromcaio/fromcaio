@@ -72,6 +72,14 @@
 |------------|-------------|
 | [c-course](https://github.com/fromcaio/c-course) | A proposta é simples: te levar do zero até o domínio dos principais conceitos da linguagem C. |
 
+### ⚡ Systems, Numerical & Optimization
+| Repository | Description |
+|------------|-------------|
+| [numerical-analysis](https://github.com/fromcaio/numerical-analysis) | Jupyter notebooks with explanations and implementations of numerical analysis methods. |
+| [fat16-fs-simulator](https://github.com/fromcaio/fat16-fs-simulator) | FAT16 filesystem simulator in C with interactive shell. |
+| [simplex-solver](https://github.com/fromcaio/simplex-solver) | Python implementation of the Simplex method (including two-phase). |
+| [parallel-computing](https://github.com/fromcaio/parallel-computing) | Parallel algorithms and experiments in C (pthreads, OpenMP, MPI, CUDA). |
+
 ### 📄 LaTeX
 | Repository | Description |
 |------------|-------------|
@@ -81,11 +89,3 @@
 | [latex-academic-thesis](https://github.com/fromcaio/latex-academic-thesis) | Comprehensive and customizable template for academic theses and dissertations. |
 | [latex-academic-article](https://github.com/fromcaio/latex-academic-article) | Template tailored for academic papers, conference submissions, and journal articles. |
 | [latex-cv](https://github.com/fromcaio/latex-cv) | Clean and professional LaTeX template for creating a CV or résumé. |
-
-### ⚡ Systems, Numerical & Optimization
-| Repository | Description |
-|------------|-------------|
-| [numerical-analysis](https://github.com/fromcaio/numerical-analysis) | Jupyter notebooks with explanations and implementations of numerical analysis methods. |
-| [fat16-fs-simulator](https://github.com/fromcaio/fat16-fs-simulator) | FAT16 filesystem simulator in C with interactive shell. |
-| [simplex-solver](https://github.com/fromcaio/simplex-solver) | Python implementation of the Simplex method (including two-phase). |
-| [parallel-computing](https://github.com/fromcaio/parallel-computing) | Parallel algorithms and experiments in C (pthreads, OpenMP, MPI, CUDA). |
