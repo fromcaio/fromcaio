@@ -70,7 +70,7 @@
 ### 💻 Courses
 | Repository | Description |
 |------------|-------------|
-| [c-course](https://github.com/fromcaio/c-course) | Source code, exercises, and examples from my complete C programming course on YouTube. |
+| [c-course](https://github.com/fromcaio/c-course) | A proposta é simples: te levar do zero até o domínio dos principais conceitos da linguagem C. |
 
 ### 📄 LaTeX
 | Repository | Description |
