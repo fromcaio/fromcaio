@@ -78,7 +78,7 @@
 | [numerical-analysis](https://github.com/fromcaio/numerical-analysis) | Jupyter notebooks with explanations and implementations of numerical analysis methods. |
 | [fat16-fs-simulator](https://github.com/fromcaio/fat16-fs-simulator) | FAT16 filesystem simulator in C with interactive shell. |
 | [simplex-solver](https://github.com/fromcaio/simplex-solver) | Python implementation of the Simplex method (including two-phase). |
-| [parallel-computing](https://github.com/fromcaio/parallel-computing) | Parallel algorithms and experiments in C (pthreads, OpenMP, MPI, CUDA). |
+| [parallel-computing](https://github.com/fromcaio/parallel-computing) | Parallel algorithms and experiments in C (MPI, OpenMP and CUDA). |
 
 ### 📄 LaTeX
 | Repository | Description |
