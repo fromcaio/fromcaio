@@ -87,18 +87,18 @@
 ## Projects
 
 ### 🌐 Open Source Web Projects
-|  | Repository | Description |
+| | Repository | Description |
 |-----------|-------------|-------------|
 | 🇧🇷 | [granalivre](https://github.com/fromcaio/granalivre) | Plataforma open source de finanças pessoais, feita para a comunidade brasileira. Construída com Next.js e Django. |
 <!-- | 🇺🇸 | [open-edu-platform](https://github.com/fromcaio/open-edu-platform) | Open-source Next.js platform to simplify publishing rich, interactive content with Markdown + LaTeX + code blocks. | -->
 
 ### 💻 Free Courses
-| Language | Repository | Description |
+| | Repository | Description |
 |-----------|-------------|-------------|
 | 🇧🇷 | [c-course](https://github.com/fromcaio/c-course) | A proposta é simples: te levar do zero até o domínio dos principais conceitos da linguagem C. |
 
 ### ⚡ Algorithms, Systems & Computation
-| Language | Repository | Description |
+| | Repository | Description |
 |-----------|-------------|-------------|
 | 🇺🇸 | [artificial-intelligence](https://github.com/fromcaio/artificial-intelligence) | Implementations of core AI concepts — from search algorithms and agents to logic, planning, and machine learning foundations. |
 | 🇺🇸 | [numerical-analysis](https://github.com/fromcaio/numerical-analysis) | Jupyter notebooks with explanations and implementations of numerical analysis methods. |
@@ -107,7 +107,7 @@
 | 🇺🇸 | [parallel-computing](https://github.com/fromcaio/parallel-computing) | Parallel algorithms and experiments in C (MPI, OpenMP and CUDA). |
 
 ### 📄 LaTeX Templates
-| Language | Repository | Description |
+| | Repository | Description |
 |-----------|-------------|-------------|
 | 🇺🇸 | [latex-slides-with-menu](https://github.com/fromcaio/latex-slides-with-menu) | Slides template with a navigation menu for professional presentations. |
 | 🇺🇸 | [latex-doc-template](https://github.com/fromcaio/latex-doc-template) | Template for complete software documentation, technical manuals, and structured reports. |
