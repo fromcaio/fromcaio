@@ -87,7 +87,7 @@
 ## Projects
 
 ### 🌐 Open Source Web Projects
-| Language | Repository | Description |
+|  | Repository | Description |
 |-----------|-------------|-------------|
 | 🇧🇷 | [granalivre](https://github.com/fromcaio/granalivre) | Plataforma open source de finanças pessoais, feita para a comunidade brasileira. Construída com Next.js e Django. |
 <!-- | 🇺🇸 | [open-edu-platform](https://github.com/fromcaio/open-edu-platform) | Open-source Next.js platform to simplify publishing rich, interactive content with Markdown + LaTeX + code blocks. | -->
