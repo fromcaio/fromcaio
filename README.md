@@ -110,7 +110,7 @@
 | | Repository | Description |
 |-----------|-------------|-------------|
 | 🇺🇸 | [latex-slides-with-menu](https://github.com/fromcaio/latex-slides-with-menu) | Slides template with a navigation menu for professional presentations. |
-| 🇺🇸 | [latex-professional-documentation](https://github.com/fromcaio/latex-doc-template) | Template for complete software documentation, technical manuals, and structured reports. |
+| 🇺🇸 | [latex-professional-doc](https://github.com/fromcaio/latex-doc-template) | Template for complete software documentation, technical manuals, and structured reports. |
 | 🇺🇸 | [latex-professional-report](https://github.com/fromcaio/latex-article) | Template designed for development reports, and technical write-ups. |
 | 🇧🇷 | [latex-academic-thesis](https://github.com/fromcaio/latex-academic-thesis) | Template LaTeX para TCC e trabalhos acadêmicos em conformidade com as normas ABNT. |
 | 🇺🇸 | [latex-academic-article](https://github.com/fromcaio/latex-academic-article) | Template tailored for academic papers, conference submissions, and journal articles. |
