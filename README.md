@@ -101,9 +101,8 @@
 | | Repository | Description |
 |-----------|-------------|-------------|
 | 🇺🇸 | [artificial-intelligence](https://github.com/fromcaio/artificial-intelligence) | Implementations of core AI concepts — from search algorithms and agents to logic, planning, and machine learning foundations. |
+| 🇺🇸 | [image-processing](https://github.com/fromcaio/image-processing) | Jupyter notebooks with detailed explanations and Python implementations of digital image processing concepts and techniques — from basic transformations to advanced filtering and segmentation. |
 | 🇺🇸 | [numerical-analysis](https://github.com/fromcaio/numerical-analysis) | Jupyter notebooks with explanations and implementations of numerical analysis methods. |
-| 🇺🇸 | [fat16-fs-simulator](https://github.com/fromcaio/fat16-fs-simulator) | FAT16 filesystem simulator in C with interactive shell. |
-| 🇺🇸 | [simplex-solver](https://github.com/fromcaio/simplex-solver) | Python implementation of the Simplex method (including two-phase). |
 | 🇺🇸 | [parallel-computing](https://github.com/fromcaio/parallel-computing) | Parallel algorithms and experiments in C (MPI, OpenMP and CUDA). |
 
 ### 📄 LaTeX Templates
