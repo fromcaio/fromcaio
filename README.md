@@ -100,10 +100,10 @@
 ### ⚡ Algorithms, Systems & Computation
 | | Repository | Description |
 |-----------|-------------|-------------|
-| 🇺🇸 | [artificial-intelligence](https://github.com/fromcaio/artificial-intelligence) | Implementations of core AI concepts — from search algorithms and agents to logic, planning, and machine learning foundations. |
-| 🇺🇸 | [image-processing](https://github.com/fromcaio/image-processing) | Jupyter notebooks with detailed explanations and Python implementations of digital image processing concepts and techniques — from basic transformations to advanced filtering and segmentation. |
 | 🇺🇸 | [numerical-analysis](https://github.com/fromcaio/numerical-analysis) | Jupyter notebooks with explanations and implementations of numerical analysis methods. |
 | 🇺🇸 | [parallel-computing](https://github.com/fromcaio/parallel-computing) | Parallel algorithms and experiments in C (MPI, OpenMP and CUDA). |
+| 🇺🇸 | [artificial-intelligence](https://github.com/fromcaio/artificial-intelligence) | Implementations of core AI concepts — from search algorithms and agents to logic, planning, and machine learning foundations. |
+| 🇺🇸 | [image-processing](https://github.com/fromcaio/image-processing) | Jupyter notebooks with detailed explanations and Python implementations of digital image processing concepts and techniques — from basic transformations to advanced filtering and segmentation. |
 
 ### 📄 LaTeX Templates
 | | Repository | Description |
