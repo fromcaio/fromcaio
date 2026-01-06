@@ -14,9 +14,10 @@
 <!-- 🧮 Low-Level & HPC Tools -->
 <!-- ======================== -->
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img alt="MPI" src="https://img.shields.io/badge/MPI-CC0000?style=for-the-badge" />
 <img alt="OpenMP" src="https://img.shields.io/badge/OpenMP-2C5BB4?style=for-the-badge&logo=openmp&logoColor=white" />
-<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<!-- <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> -->
 
 <!-- ======================== -->
 <!-- 🐍 Python Ecosystem -->
