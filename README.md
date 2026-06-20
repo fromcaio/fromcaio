@@ -17,6 +17,7 @@
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img alt="MPI" src="https://img.shields.io/badge/MPI-CC0000?style=for-the-badge" />
 <img alt="OpenMP" src="https://img.shields.io/badge/OpenMP-2C5BB4?style=for-the-badge&logo=openmp&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <!-- <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> -->
 
 <!-- ======================== -->
@@ -26,8 +27,8 @@
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-eeeeee?style=for-the-badge&logo=Matplotlib&logoColor=blue" />
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+<!-- <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
 
 <!-- ======================== -->
 <!-- ⚛️ Web Development -->
@@ -35,12 +36,12 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<!-- <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> -->
 
 <!-- ======================== -->
 <!-- 🧱 Blockchain -->
 <!-- ======================== -->
-<img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<!-- <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> -->
 
 <!-- ======================== -->
 <!-- 💻 System & Terminal -->
